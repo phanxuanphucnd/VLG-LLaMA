@@ -25,7 +25,7 @@ This project aims to make LLaMa understand Vietnamese, and can generate fluency 
    | `speed` | 1.02s / it |
   
   
-- [X] Fine-grained english-vietnamese alignment dataset. We colleced the high-quality English-Vietnamese pairs and can be download in [google drive](https://drive.google.com/drive/folders/1GKRD_2bpQOLYptlgb1c30GOXJDy_rw7c?usp=sharing). 
+- [X] Fine-grained english-vietnamese alignment dataset. We colleced the high-quality English-Vietnamese pairs and can be download in [Github](https://github.com/VinAIResearch/PhoMT). 
 
 [//]: # (     We also found that [BELLE]&#40;https://github.com/LianjiaTech/BELLE&#41; provide ckpts and inese dataset, strongly recommended to refer it. )
 
