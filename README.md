@@ -3,7 +3,7 @@
      <br/>
 </p> 
 
-# MLE-LLaMA: Multi-Language Enhanced LLaMA
+# VLG-LLaMA: Vietnamese Land Genie - LLaMA
 
 This project aims to make LLaMa understand Chinese, and can generate fluency chinese. We are inspired that LLaMa have learned good English expression and a little alignment prompt can makes it capture Chinese. 
 
