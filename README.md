@@ -14,7 +14,7 @@ This project aims to make LLaMa understand Chinese, and can generate fluency chi
 
   (2) ```train.py``` original script must be run on 80G A100 and more techniques should be employed. 
   
-  (3) ```train_lora.py``` lora fine-tuning using [pert](https://github.com/huggingface/peft). 
+  (3) ```train_lora.py``` lora fine-tuning using [peft](https://github.com/huggingface/peft). 
   
   | Argument | Values |
   |------|------|
